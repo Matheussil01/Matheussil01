@@ -1,5 +1,3 @@
-# Matheussil01
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=192&section=header&text=Hello%2C%20World!%20I'm%20Matheus%20Faustino&fontSize=25&fontColor=FFFFFF&fontAlignY=44&desc=Front-End%20Developer%20%7C%20HTML%2C%20CSS%2C%20JavaScript&descSize=18&descAlignY=72&color=E10600" alt="banner" />
 </div>
@@ -52,20 +50,15 @@ Formado em Técnico em Desenvolvimento de Sistemas.
 `HTML` · `CSS` · `JavaScript`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheussil01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="gráfico de estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussil01&layout=compact&langs_count=4&theme=github_dark&hide_border=true" height="150" alt="gráfico de idiomas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheussil01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="150" alt="gráfico de estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussil01&layout=compact&langs_count=4&theme=github_dark" height="150" alt="gráfico de idiomas" />
 </div>
-
-<!--
-PAC-MAN: só reative este bloco depois de criar o workflow (GitHub Action)
-que gera o branch "pacman-output". Sem isso a imagem fica quebrada.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheussil01/Matheussil01/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheussil01/Matheussil01/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Matheussil01/Matheussil01/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
--->
 
 <h4 align="center">Contatos<br>
 LinkedIn: <a href="https://www.linkedin.com/in/matheussil01/">linkedin.com/in/matheussil01</a><br>
@@ -75,12 +68,9 @@ Gmail: <a href="mailto:Matheussil2012@gmail.com">Matheussil2012@gmail.com</a></h
   <a href="https://www.linkedin.com/in/matheussil01/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <!--
-  Instagram: troque SEU_USUARIO pelo seu @ e remova esta marcação de comentário
   <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  -->
   <a href="mailto:Matheussil2012@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
