@@ -1,8 +1,11 @@
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=192&section=header&text=Hello%2C%20World!%20I'm%20Matheus%20Faustino&fontSize=25&fontColor=FFFFFF&fontAlignY=44&desc=Front-End%20Developer%20%7C%20HTML%2C%20CSS%2C%20JavaScript&descSize=18&descAlignY=72&color=E10600" alt="banner" />
 </div>
 
-<img align="right" height="188" src="https://lh3.googleusercontent.com/a/ACg8ocKgS9cfkv44rmwqP4IKCqYHh_cirJ6Oov1okgReM0nzIRZO__0BOw=s288-c-no" alt="logo MFs" />
+<div align="center">
+  <img height="150" src="https://lh3.googleusercontent.com/a/ACg8ocKgS9cfkv44rmwqP4IKCqYHh_cirJ6Oov1okgReM0nzIRZO__0BOw=s288-c-no" alt="logo MFs" />
+</div>
 
 ### Sobre
 
@@ -10,8 +13,6 @@ Sou desenvolvedor Front-End e busco me tornar Full Stack. Tenho conhecimentos em
 
 Cursando Ciência da Computação.<br>
 Formado em Técnico em Desenvolvimento de Sistemas.
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
