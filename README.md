@@ -53,8 +53,8 @@ Formado em Técnico em Desenvolvimento de Sistemas.
 `HTML` · `CSS` · `JavaScript`
 
 <div align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%" alt="estatísticas do GitHub" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" alt="linguagens mais usadas nos commits" />
+  <img src="./cards/stats.svg" height="150" alt="gráfico de estatísticas" />
+  <img src="./cards/top-langs.svg" height="150" alt="gráfico de idiomas" />
 </div>
 
 <picture>
