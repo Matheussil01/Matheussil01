@@ -32,7 +32,7 @@ Formado em Técnico em Desenvolvimento de Sistemas.
 
 ### Projetos em destaque
 
-🛍️ **[MinhaLoja](https://github.com/Matheussil01/E-commerce-MinhaLoja)**: E-commerce full-stack com busca e filtro de produtos, carrinho persistente, checkout simulado, autenticação, histórico de pedidos e painel admin com dashboard de vendas.<br>
+**[MinhaLoja](https://github.com/Matheussil01/E-commerce-MinhaLoja)**: E-commerce full-stack com busca e filtro de produtos, carrinho persistente, checkout simulado, autenticação, histórico de pedidos e painel admin com dashboard de vendas.<br>
 `Next.js 14` · `React` · `TypeScript` · `Tailwind` · `Prisma` · `NextAuth` · `Vitest` · `Playwright`
 
 📊 **[InforMei](https://github.com/Matheussil01/InforMei)**: Plataforma web para MEIs gerenciarem clientes, finanças, documentos e novidades do setor em um só lugar.<br>
