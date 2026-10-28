@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: Update-Stats-Cards
 
 on:
   # atualiza sozinho a cada hora
@@ -7,16 +7,44 @@ on:
   # permite rodar na mão pela aba Actions
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
+
+      - name: Gerar cards
+        run: |
+          mkdir -p cards
+
+          fetch_card() {
+            url="$1"
+            out="$2"
+            for i in 1 2 3; do
+              # o parametro cb muda a cada execucao pra nao pegar cache antigo
+              curl -sSL --max-time 60 "${url}&cb=$(date +%s)" -o tmp.svg || true
+              if grep -q "<svg" tmp.svg && ! grep -qiE "something went wrong|could not fetch|rate limit" tmp.svg; then
+                mv tmp.svg "$out"
+                echo "OK: $out"
+                return 0
+              fi
+              echo "Tentativa $i falhou para $out, tentando de novo..."
+              sleep 10
+            done
+            echo "Nao foi possivel atualizar $out, mantendo a versao anterior"
+            return 0
+          }
+
+          fetch_card "https://github-readme-stats.vercel.app/api?username=Matheussil01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" "cards/stats.svg"
+          fetch_card "https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussil01&layout=compact&langs_count=4&theme=github_dark" "cards/top-langs.svg"
+
+      - name: Salvar no repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards
+          git diff --staged --quiet || git commit -m "chore: atualizar cards de estatisticas"
+          git push
