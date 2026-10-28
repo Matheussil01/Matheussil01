@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="./logo-mfs.png" alt="logo MFs" />
+  <img height="150" src="./logo-mfs-transparente.png" alt="logo MFs" />
 </div>
 
 ### Sobre
@@ -53,8 +53,7 @@ Formado em Técnico em Desenvolvimento de Sistemas.
 `HTML` · `CSS` · `JavaScript`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheussil01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="150" alt="gráfico de estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussil01&layout=compact&langs_count=4&theme=github_dark" height="150" alt="gráfico de idiomas" />
+  <img src="./github-metrics.svg" alt="estatísticas do GitHub" />
 </div>
 
 <picture>
