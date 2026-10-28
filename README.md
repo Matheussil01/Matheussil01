@@ -1,9 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=E10600&animation=fadeIn" alt="banner" />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=3000&pause=3000&color=E10600&center=true&vCenter=true&width=700&height=80&lines=Matheus+Faustino" alt="Matheus Faustino" />
-  </a>
-  <br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Matheus%20Faustino&fontSize=60&fontColor=FFFFFF&fontAlignY=40&color=E10600&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" alt="banner" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E10600&center=true&vCenter=true&width=500&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Rumo+a+Full+Stack+%F0%9F%9A%80" alt="typing" />
   </a>
