@@ -35,19 +35,19 @@ Formado em Técnico em Desenvolvimento de Sistemas.
 **[MinhaLoja](https://github.com/Matheussil01/E-commerce-MinhaLoja)**: E-commerce full-stack com busca e filtro de produtos, carrinho persistente, checkout simulado, autenticação, histórico de pedidos e painel admin com dashboard de vendas.<br>
 `Next.js 14` · `React` · `TypeScript` · `Tailwind` · `Prisma` · `NextAuth` · `Vitest` · `Playwright`
 
-📊 **[InforMei](https://github.com/Matheussil01/InforMei)**: Plataforma web para MEIs gerenciarem clientes, finanças, documentos e novidades do setor em um só lugar.<br>
+**[InforMei](https://github.com/Matheussil01/InforMei)**: Plataforma web para MEIs gerenciarem clientes, finanças, documentos e novidades do setor em um só lugar.<br>
 `TypeScript` · `JavaScript` · `CSS`
 
-🃏 **[InforMei Cards](https://github.com/Matheussil01/informei-cards)**: Cards de apresentação do projeto InforMei.<br>
+**[InforMei Cards](https://github.com/Matheussil01/informei-cards)**: Cards de apresentação do projeto InforMei.<br>
 `JavaScript` · `HTML` · `CSS`
 
-🔐 **[Login e Cadastro](https://github.com/Matheussil01/login-cadastramento)**: Telas de login e cadastramento de usuários.<br>
+**[Login e Cadastro](https://github.com/Matheussil01/login-cadastramento)**: Telas de login e cadastramento de usuários.<br>
 `HTML` · `CSS` · `JavaScript`
 
-🔒 **[Projeto Criptografia](https://github.com/Matheussil01/projeto_criptografia)**: Projeto de criptografia desenvolvido em C.<br>
+**[Projeto Criptografia](https://github.com/Matheussil01/projeto_criptografia)**: Projeto de criptografia desenvolvido em C.<br>
 `C`
 
-💼 **[Portfólio](https://github.com/Matheussil01/meu-portfolio)**: Site pessoal com meus projetos e informações de contato.<br>
+**[Portfólio](https://github.com/Matheussil01/meu-portfolio)**: Site pessoal com meus projetos e informações de contato.<br>
 `HTML` · `CSS` · `JavaScript`
 
 <div align="center">
