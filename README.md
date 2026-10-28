@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Matheussil01/Matheussil01/principal/logo-mfs.png" alt="Logo MFs - M e F vermelhos e S branco" />
+  <img height="150" src="https://lh3.googleusercontent.com/a/ACg8ocKgS9cfkv44rmwqP4IKCqYHh_cirJ6Oov1okgReM0nzIRZO__0BOw=s288-c-no" alt="logo MFs" />
 </div>
 
 ### Sobre
@@ -38,10 +38,10 @@ Formado em Técnico em Desenvolvimento de Sistemas.
 **[InforMei](https://github.com/Matheussil01/InforMei)**: Plataforma web para MEIs gerenciarem clientes, finanças, documentos e novidades do setor em um só lugar.<br>
 `TypeScript` · `JavaScript` · `CSS`
 
-**[Cartões InforMei](https://github.com/Matheussil01/informei-cards)**: Cartões de apresentação do projeto InforMei.<br>
+**[InforMei Cards](https://github.com/Matheussil01/informei-cards)**: Cards de apresentação do projeto InforMei.<br>
 `JavaScript` · `HTML` · `CSS`
 
-**[Login e Cadastro](https://github.com/Matheussil01/login-cadastramento)**: Telas de login e cadastro de usuários.<br>
+**[Login e Cadastro](https://github.com/Matheussil01/login-cadastramento)**: Telas de login e cadastramento de usuários.<br>
 `HTML` · `CSS` · `JavaScript`
 
 **[Projeto Criptografia](https://github.com/Matheussil01/projeto_criptografia)**: Projeto de criptografia desenvolvido em C.<br>
