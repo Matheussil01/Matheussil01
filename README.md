@@ -1,3 +1,4 @@
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Matheus%20Faustino&fontSize=60&fontColor=FFFFFF&fontAlignY=40&color=E10600&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" alt="banner" />
   <a href="https://git.io/typing-svg">
@@ -52,12 +53,11 @@ Formado em Técnico em Desenvolvimento de Sistemas.
 **[Portfólio](https://github.com/Matheussil01/meu-portfolio)**: Site pessoal com meus projetos e informações de contato.<br>
 `HTML` · `CSS` · `JavaScript`
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Matheussil01/Matheussil01/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Matheussil01/Matheussil01/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheussil01&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussil01&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheussil01/Matheussil01/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheussil01/Matheussil01/pacman-output/pacman-contribution-graph.svg?game=pacman">
