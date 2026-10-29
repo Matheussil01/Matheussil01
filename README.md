@@ -53,12 +53,7 @@ Formado em Técnico em Desenvolvimento de Sistemas.
 `HTML` · `CSS` · `JavaScript`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Matheussil01&theme=github-dark&hide_border=true&ring=E10600&fire=E10600&currStreakLabel=E10600" width="48%" alt="sequência de contribuições" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussil01&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=E10600" width="48%" alt="linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheussil01&bg_color=0d1117&color=E10600&line=E10600&point=FFFFFF&area=true&hide_border=true" width="97%" alt="gráfico de atividade" />
+  <img src="https://streak-stats.demolab.com/?user=Matheussil01&theme=github-dark&hide_border=true&ring=E10600&fire=E10600&currStreakLabel=E10600" height="150" alt="sequência de contribuições" />
 </div>
 
 <picture>
