@@ -1,12 +1,18 @@
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Matheus%20Faustino&fontSize=60&fontColor=FFFFFF&fontAlignY=40&color=E10600&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" alt="banner" />
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E10600&center=true&vCenter=true&width=500&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Rumo+a+Full+Stack" alt="typing" />
   </a>
 </div>
 
 <div align="center">
-  <img height="150" src="./logo-mfs-transparente.png" alt="logo MFs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-mfs-transparente.png">
+    <source media="(prefers-color-scheme: light)" srcset="./logo-mfs-claro.png">
+    <img height="150" src="./logo-mfs-transparente.png" alt="logo MFs" />
+  </picture>
 </div>
 
 ### Sobre
