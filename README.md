@@ -9,9 +9,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./logo-mfs-transparente.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-mfs-escuro.png">
     <source media="(prefers-color-scheme: light)" srcset="./logo-mfs-claro.png">
-    <img height="150" src="./logo-mfs-transparente.png" alt="logo MFs" />
+    <img src="./logo-mfs-escuro.png" height="150" alt="Logo MFs">
   </picture>
 </div>
 
