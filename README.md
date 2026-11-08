@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="./ logo-mfs-escuro.png" alt="logo MFs" />
+  <img height="150" src="./logo-mfs-transparente.png" alt="logo MFs" />
 </div>
 
 ### Sobre
