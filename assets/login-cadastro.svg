@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" role="img" aria-label="Login e Cadastro - Interfaces de usuários">
+<rect x="1" y="1" width="598" height="188" rx="14" fill="#202129" stroke="#343640" stroke-width="2"/>
+<rect x="20" y="19" width="78" height="78" rx="12" fill="#30313A"/>
+<g transform="translate(39 38) scale(1.65)" fill="none" stroke="#E10600" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 8 0 0 1 16 0v2"/></g>
+<text x="117" y="49" font-size="25" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#FFFFFF">Login e Cadastro</text>
+<text x="117" y="78" font-size="19" font-family="Arial,Helvetica,sans-serif" fill="#C4C4C8">Interfaces de usuários</text>
+<text x="20" y="126" font-size="18" font-family="Arial,Helvetica,sans-serif" fill="#FF7777">HTML · CSS · JS</text>
+<rect x="20" y="140" width="560" height="35" rx="6" fill="#E10600"/>
+<text x="300" y="164" text-anchor="middle" font-size="18" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#FFFFFF">Ver projeto</text>
+</svg>
